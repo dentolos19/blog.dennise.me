@@ -1,7 +1,9 @@
 ---
-title: Migrating from pnpm to npm
+title: Migrate from PNPM to NPM
+date: 2023-09-11 21:18:00
 categories: ["Programming", "Tutorials"]
 tags: ["nodejs", "npm", "pnpm"]
+toc: false
 ---
 
 # Introduction
@@ -56,4 +58,4 @@ Your `package.json` file should look something like this.
 
 5. Replace anything related to `npm` with `pnpm`. For example, `npm run dev` will now be `pnpm run dev`.
 
-That's all.
+That's all!
