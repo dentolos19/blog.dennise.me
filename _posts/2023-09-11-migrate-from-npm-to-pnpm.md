@@ -1,6 +1,5 @@
 ---
 title: Migrate from PNPM to NPM
-date: 2023-09-11 21:18:00
 categories: ["Programming", "Tutorials"]
 tags: ["nodejs", "npm", "pnpm"]
 toc: false
