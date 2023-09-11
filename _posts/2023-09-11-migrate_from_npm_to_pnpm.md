@@ -1,3 +1,9 @@
+---
+title: Migrating from pnpm to npm
+categories: ["Programming", "Tutorials"]
+tags: ["nodejs", "npm", "pnpm"]
+---
+
 # Introduction
 
 `pnpm` is a package manager for Node.js that is designed to be faster and more efficient than `npm`. It achieves this by using a shared store of packages, which means that each package is only downloaded once and can be used by multiple projects. This reduces the amount of disk space used and speeds up installation times. Additionally, `pnpm` uses hard links instead of copying files, which further reduces disk usage and speeds up installation times. Overall, `pnpm` is a great choice for projects that require fast and efficient package management.
@@ -29,7 +35,7 @@ Your `package.json` file should look something like this.
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
