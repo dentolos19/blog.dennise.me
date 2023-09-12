@@ -1,5 +1,5 @@
 ---
-title: Migrate from PNPM to NPM
+title: Migrate from NPM to PNPM
 categories: ["Programming", "Tutorials"]
 tags: ["nodejs", "npm", "pnpm"]
 toc: false
@@ -21,7 +21,7 @@ You can read more about this [here](https://pnpm.io/motivation).
 
 Your `package.json` file should look something like this.
 
-```json
+```jsonc
 {
   "name": "anywhere-fitness",
   "private": true,
