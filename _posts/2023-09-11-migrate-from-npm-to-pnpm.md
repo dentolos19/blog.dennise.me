@@ -11,7 +11,7 @@ toc: false
 
 You can read more about this [here](https://pnpm.io/motivation).
 
-## Instructions
+# Instructions
 
 1. Install `pnpm`, there are [various ways](https://pnpm.io/installation) of installing it.
 
@@ -19,36 +19,12 @@ You can read more about this [here](https://pnpm.io/motivation).
 
 3. In your `package.json` file, add this preinstall command `npx only-allow pnpm` under scripts. This will make sure that other devs will only be allowed to use `pnpm`.
 
-Your `package.json` file should look something like this.
-
 ```jsonc
 {
-  "name": "anywhere-fitness",
-  "private": true,
+  "name": "app",
   "version": "1.0.0",
-  "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "preinstall": "npx only-allow pnpm" // this is the line that you have to add
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "@types/react": "^18.2.15",
-    "@types/react-dom": "^18.2.7",
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^6.0.0",
-    "@vitejs/plugin-react-swc": "^3.3.2",
-    "eslint": "^8.45.0",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.4.3",
-    "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "preinstall": "npx only-allow pnpm" // this is the line that you add
   }
 }
 ```
