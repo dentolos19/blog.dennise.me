@@ -8,12 +8,12 @@ I am a person who started programming since he was in primary school. I was so f
 # Get To Know Me
 
 - My Personality Type: [Virtuoso (ISTP-T)](https://16personalities.com/istp-personality)
-- The Things I Love: Coding, Manga/Manhwa/Webtoons, Technology
+- The Things I Love: Programming, Manga/Manhwa/Webtoons, Technology
 - The Genres I Like: Action, Fantasy, Romance, Isekai, Space
 - The Genres I Dislike: Horror
 
 # Connect With Me
 
-- GitHub: https://github.com/dentolos19
-- LinkedIn: https://linkedin.com/in/dentolos19
-- AniList: https://anilist.co/user/dentolos19
+- GitHub: [https://github.com/dentolos19](https://github.com/dentolos19)
+- LinkedIn: [https://linkedin.com/in/dentolos19](https://linkedin.com/in/dentolos19)
+- AniList: [https://anilist.co/user/dentolos19](https://anilist.co/user/dentolos19)

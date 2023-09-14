@@ -1,6 +1,6 @@
 ---
 title: Migrate from NPM to PNPM
-categories: ["Programming", "Tutorials"]
+categories: ["Programming", "Guides"]
 tags: ["nodejs", "npm", "pnpm"]
 toc: false
 ---
