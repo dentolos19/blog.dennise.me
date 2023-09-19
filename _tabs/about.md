@@ -9,7 +9,7 @@ I am a person who started programming since he was in primary school. I was so f
 
 - My Personality Type: [Virtuoso (ISTP-T)](https://16personalities.com/istp-personality)
 - The Things I Love: Programming, Manga/Manhwa/Webtoons, Technology
-- The Genres I Like: Action, Fantasy, Romance, Isekai, Space
+- The Genres I Like: Action, Fantasy, Romance, Isekai, Space, Wuxia/Murim (Martial Arts)
 - The Genres I Dislike: Horror
 
 # Connect With Me
