@@ -20,10 +20,10 @@ timezone: Asia/Singapore
 
 title: Dennise Catolos # the main title
 
-tagline: My digital odyssey! # it will display as the sub-title
+tagline: My digital blog! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My digital odyssey! I share about my experiences, thoughts, and ideas.
+  My digital blog where I share about my experiences, thoughts, and ideas.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://blog.dennise.me"
