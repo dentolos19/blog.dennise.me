@@ -37,9 +37,9 @@ You can read more about this [here](https://pnpm.io/motivation).
 
 After having migrated to `pnpm`, you should replace anything replaced to `npm` with `pnpm` in your command line or your IDE. For example...
 
-- `npm run dev` -> `pnpm run dev`
-- `npm install sass` -> `pnpm install sass`
-- `npm update --latest` -> `pnpm update --latest`
-- `npx create-next-app` -> `pnpx create-next-app`
+- `npm run dev` 🡢 `pnpm run dev`
+- `npm install sass` 🡢 `pnpm install sass`
+- `npm update --latest` 🡢 `pnpm update --latest`
+- `npx create-next-app` 🡢 `pnpx create-next-app`
 
 That's all! See you next time... 👋

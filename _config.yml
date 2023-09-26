@@ -18,12 +18,12 @@ timezone: Asia/Singapore
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Dennise Catolos # the main title
+title: Dennise's Blog # the main title
 
-tagline: My digital blog! # it will display as the sub-title
+tagline: A place to share my experiences, thoughts and ideas. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My digital blog where I share about my experiences, thoughts, and ideas.
+  A place to share my experiences, thoughts and ideas.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://blog.dennise.me"
