@@ -1,6 +1,6 @@
 ---
 title: How to migrate from NPM to PNPM
-categories: ["Programming", "Guides"]
+categories: ["Guides"]
 tags: ["nodejs", "npm", "pnpm"]
 toc: false
 ---
@@ -33,7 +33,7 @@ You can read more about this [here](https://pnpm.io/motivation).
 
 5. Done!
 
-# What's next?
+## What's next?
 
 After having migrated to `pnpm`, you should replace anything replaced to `npm` with `pnpm` in your command line or your IDE. For example...
 
