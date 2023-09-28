@@ -3,7 +3,7 @@ title: How to install Microsoft Office with your own configuration
 categories: ["Guides"]
 tags: ["microsoft", "office"]
 toc: false
-img_path: /assets/img/office.jpg
+img_path: /img/office.jpg
 ---
 
 # Introduction
@@ -26,7 +26,7 @@ Configuring your own Microsoft Office is a great way to personalize your product
 
 # Instructions
 
-1. Open your web browser and go to [https://config.office.com/deploymentsettings](https://config.office.com/deploymentsettings).
+1. Go to [Office Customization Tool](https://config.office.com/deploymentsettings) website.
 
 2. Start configuring your options...
 
