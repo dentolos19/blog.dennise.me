@@ -1,13 +1,14 @@
 ---
-title: How to install Office 365 with your own configurations
+title: How to install Microsoft Office with your own configuration
 categories: ["Guides"]
 tags: ["microsoft", "office"]
 toc: false
+img_path: /assets/img/office.jpg
 ---
 
 # Introduction
 
-If you are looking for a way to customize your productivity tools, you should consider configuring your own Microsoft Office. By doing so, you can choose the applications, features, and settings that best suit your needs and preferences. You can also avoid cluttering your device with unnecessary programs. Configuring your own Microsoft Office is easy and fun, and you can always change your options later if you want to try something new.
+If you are looking for a way to customize your productivity tools, you should consider configuring your own Microsoft Office. By doing so, you can choose the applications, features, and settings that best suit your needs and preferences. You can also avoid cluttering your device with unnecessary programs. Configuring your own Microsoft Office is easy, and you can always change your options later if you want to try something new.
 
 ## Benefits
 
@@ -36,10 +37,10 @@ Configuring your own Microsoft Office is a great way to personalize your product
 
 3. After your done configuring your options...
 
-    - Click on **Export** at the top right of your screen.
+    - Click **Export** at the top right of your screen.
     - Select **Office Open XML Formats** as the default file format, then click **OK**.
     - Accept the terms and finally click **Export** and download the configuration file.
-    - *(Note)* Your browser might as label the file as dangerous, but it's just a text file so it wouldn't do you any harm.
+    - *(Note)* Your browser might label the file as dangerous, but it's just a text file so it wouldn't do you any harm.
 
 4. Download the [Office Deployment Tool](https://microsoft.com/download/details.aspx?id=49117) from Microsoft's official website.
 
@@ -55,8 +56,8 @@ Configuring your own Microsoft Office is a great way to personalize your product
 
 ## What's next?
 
-After installing Office, you should activate it. If you already have a Microsoft 365 subscription, then just sign in with your own account to activate it. Or if work at a company or study at a institution, they will have most likely provided you with a subscription in your work or school account.
+After installing Microsoft Office, you should activate it. If you already have a Microsoft 365 subscription, then just sign in with your own account to activate it. Or, if work at a company or study at a institution, they will have most likely had already provided you with a subscription in your work or school account.
 
-If you are a developer with a GitHub account, then you're in luck! You are able to get a free Microsoft 365 subscription, [click here](https://developer.microsoft.com/microsoft-365/dev-program) for more information.
+If you are a developer with an active GitHub account, then you're in luck! You are able to get a free Microsoft 365 subscription, [click here](https://developer.microsoft.com/microsoft-365/dev-program) for more information.
 
 That's all! See you next time... 👋
