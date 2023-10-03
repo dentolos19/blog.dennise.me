@@ -3,6 +3,7 @@ title: My curated list of useful tools
 categories: ["Other"]
 tags: ["tools","ai"]
 toc: false
+img: /assets/img/tools.jpeg
 pin: true
 ---
 
@@ -10,7 +11,8 @@ pin: true
 
 In this blog post, I will share about my top picks for useful tools that I've used before. Most of the tools here are free and can help you with various tasks such as writing, editing, designing, and more. Whether you are a student, a professional, or a hobbyist, you might find something that suits your needs and preferences.
 
-# List
+> This post will be continued to be updated for more useful tools.
+{: .prompt-info }
 
 ## General Purpose
 
@@ -20,17 +22,17 @@ In this blog post, I will share about my top picks for useful tools that I've us
 
 ## Productivity
 
-- [Summit](https://summit.im) ℹ️ YOUR PERSONAL LIFE COACH
+- [Summit](https://summit.im): Your personal life coach
 
 ## Programming
 
-- [Codeium](https://codeium.com) ⭐ FREE COPILOT ALTERNATIVE
+- [Codeium](https://codeium.com): A free copilot alternative
 
 ## Video & Images
 
 - [Cobalt](https://cobalt.tools)
 - [Clipdrop](https://clipdrop.co)
-- [PixAI](https://pixai.art)
+- [PixAI](https://pixai.art): Anime AI Art Generator
 - [AI Photo Editor](https://photoeditor.ai)
 - [Microsoft Designer](https://designer.microsoft.com)
 
