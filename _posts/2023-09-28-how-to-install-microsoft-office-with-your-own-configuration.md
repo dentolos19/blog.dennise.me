@@ -2,7 +2,6 @@
 title: How to install Microsoft Office with your own configuration
 categories: ["Guides"]
 tags: ["microsoft", "office"]
-toc: false
 image: /assets/img/office.jpg
 ---
 

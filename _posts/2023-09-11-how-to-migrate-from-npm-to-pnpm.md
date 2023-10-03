@@ -2,7 +2,7 @@
 title: How to migrate from NPM to PNPM
 categories: ["Guides"]
 tags: ["nodejs", "npm", "pnpm"]
-toc: false
+image: /assets/img/pnpm.png
 ---
 
 # Introduction

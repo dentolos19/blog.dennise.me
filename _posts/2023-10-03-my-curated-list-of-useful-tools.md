@@ -2,7 +2,6 @@
 title: My curated list of useful tools
 categories: ["Other"]
 tags: ["tools","ai"]
-toc: false
 image: /assets/img/tools.jpeg
 pin: true
 ---
@@ -40,5 +39,5 @@ In this blog post, I will share about my top picks for useful tools that I've us
 
 - [Free Essay Generator](https://academichelp.net/free-essay-generator)
 - [Quillbot](https://quillbot.com)
-- [DeepL Writer](https://deepl.com/writer)
+- [DeepL Write](https://deepl.com/write)
 - [DeepL Translater](https://deepl.com/translator)
