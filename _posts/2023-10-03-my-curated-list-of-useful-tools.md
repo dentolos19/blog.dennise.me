@@ -3,7 +3,7 @@ title: My curated list of useful tools
 categories: ["Other"]
 tags: ["tools","ai"]
 toc: false
-img: /assets/img/tools.jpeg
+image: /assets/img/tools.jpeg
 pin: true
 ---
 
