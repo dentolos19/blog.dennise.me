@@ -22,10 +22,12 @@ In this blog post, I will share about my top picks for useful tools that I've us
 ## Productivity
 
 - [Summit](https://summit.im): Your personal life coach
+- [Excalidraw](https://excalidraw.com): A _FREE_ virtual whiteboard (w/ collaboration)
+- [drawio](https://app.diagrams.net): A _FREE_ diagramming visualization tool
 
 ## Programming
 
-- [Codeium](https://codeium.com): A free copilot alternative
+- [Codeium](https://codeium.com): A _FREE_ copilot alternative
 
 ## Video & Images
 
