@@ -11,7 +11,23 @@ image: /assets/img/pnpm.png
 
 You can read more about this [here](https://pnpm.io/motivation).
 
-# Instructions
+## Benefits
+
+Here are some of the benefits of using `pnpm` over `npm`...
+
+- **Disk space efficiency**: `pnpm` uses a single shared cache for all projects on a system, which means that each package is only downloaded and stored once, saving disk space and reducing download times.
+
+- **Faster installation times**: `pnpm`'s use of a shared cache means that dependencies are only downloaded once, reducing installation times for subsequent projects. This can be particularly beneficial for large projects with many dependencies.
+
+- **Efficient use of system resources**: `pnpm` uses hard links and symlinks to link packages between projects, which means that it avoids copying files between directories, reducing the number of file operations required during installation and update processes. This can help to reduce CPU and I/O usage on your system.
+
+- **Improved security**: `pnpm` maintains a semi-strict node_modules structure, which means that modules have access only to packages they explicitly depend on, preventing implicit dependencies and potential security issues.
+
+- **Simple migration**: `pnpm` is compatible with npm and package.json, which means that existing projects can be easily transferred over without requiring any changes to your code.
+
+- **Improved collaboration**: `pnpm`'s shared cache makes it easier for teams to collaborate on projects without having to manage multiple copies of the same dependencies.
+
+## Instructions
 
 1. Install `pnpm`, there are [various ways](https://pnpm.io/installation) of installing it.
 
@@ -33,7 +49,7 @@ You can read more about this [here](https://pnpm.io/motivation).
 
 5. Done!
 
-## What's next?
+### What's next?
 
 After having migrated to `pnpm`, you should replace anything replaced to `npm` with `pnpm` in your command line or your IDE. For example...
 
