@@ -1,21 +1,20 @@
-# IDE configurations
+# ide configurations
+.vs/
 .idea/
 
-# NPM dependencies
-node_modules
+# environment files
+node_modules/
 package-lock.json
 
-# Bundler cache
-.bundle
-vendor
+# output files
+.bundle/
+.jekyll-cache/
+_site/
+vendor/
+*.gem
 Gemfile.lock
 
-# Jekyll cache
-.jekyll-cache
-_site
-
-# RubyGems
-*.gem
-
-# Misc
-assets/js/dist
+# miscellaneous files
+.DS_Store
+Desktop.ini
+Thumbs.db
