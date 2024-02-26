@@ -1,3 +1,10 @@
+# IDE configurations
+.idea/
+
+# NPM dependencies
+node_modules
+package-lock.json
+
 # Bundler cache
 .bundle
 vendor
@@ -9,14 +16,6 @@ _site
 
 # RubyGems
 *.gem
-
-# NPM dependencies
-node_modules
-package-lock.json
-
-# IDE configurations
-.idea
-.vscode
 
 # Misc
 assets/js/dist
