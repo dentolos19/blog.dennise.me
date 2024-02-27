@@ -4,7 +4,7 @@ services:
     image: jekyll/jekyll:latest
     stdin_open: true
     tty: true
-    command: sh -c "bundle install && bundle exec jekyll serve --watch"
+    command: jekyll serve
     volumes:
         - .:/srv/jekyll
     ports:
