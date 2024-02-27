@@ -11,17 +11,11 @@ I started programming since I was in primary school. I was so fascinated by the 
 
 ## Get to know me!
 
-- My Personality Type: [Virtuoso (ISTP-T)](https://16personalities.com/istp-personality)
-- The Things I Love: Programming, Manga/Manhwa/Webtoons, Technology
-- The Genres I Like: Action, Fantasy, Romance, Isekai, Space, Wuxia/Murim (Martial Arts)
-- The Genres I Dislike: Horror
-- The Music Genres I Like: Pop (incl. K-pop)
-
-## Connect with me!
-
-- GitHub: [https://github.com/dentolos19](https://github.com/dentolos19)
-- LinkedIn: [https://linkedin.com/in/dentolos19](https://linkedin.com/in/dentolos19)
-- AniList: [https://anilist.co/user/dentolos19](https://anilist.co/user/dentolos19)
+- **My Personality Type**: [Virtuoso (ISTP-T)](https://16personalities.com/istp-personality)
+- **The Things I Love**: Programming, Manga/Manhwa/Webtoons, Volleyball, Badminton
+- **The Genres I Like**: Action, Fantasy, Romance, Isekai, Space, Wuxia/Murim (Martial Arts)
+- **The Genres I Dislike**: Horror
+- **The Music Genres I Like**: Pop (incl. K-pop)
 
 # Credits
 

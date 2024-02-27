@@ -4,7 +4,7 @@ services:
     image: jekyll/jekyll:latest
     stdin_open: true
     tty: true
-    command: jekyll serve
+    command: jekyll serve --incremental --watch --force_polling
     volumes:
         - .:/srv/jekyll
     ports:
