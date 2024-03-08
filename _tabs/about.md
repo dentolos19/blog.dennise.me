@@ -1,6 +1,5 @@
 ---
 icon: fas fa-info-circle
 order: 4
+redirect_to: https://dennise.me/about
 ---
-
-Want to know more about me? Support me? Contact me? Visit my main website by clicking [here](https://dennise.me)!

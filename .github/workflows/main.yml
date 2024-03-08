@@ -31,7 +31,7 @@ jobs:
           ruby-version: 3
           bundler-cache: true
       - name: Build Project
-        run: bundle exec jekyll b -d output
+        run: bundle exec jekyll build --destination output
         env:
           JEKYLL_ENV: production
       - name: Upload Artifacts
