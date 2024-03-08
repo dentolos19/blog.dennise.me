@@ -7,14 +7,12 @@ concurrency:
   group: ${{ github.workflow }}
   cancel-in-progress: true
 permissions:
-  contents: read
   pages: write
   id-token: write
 jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
-    permissions: write-all
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -25,20 +23,12 @@ jobs:
         uses: actions/configure-pages@v3
         with:
           enablement: true
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3
-          bundler-cache: true
       - name: Build Project
-        run: bundle exec jekyll build --destination output
-        env:
-          JEKYLL_ENV: production
+        uses: actions/jekyll-build-pages@v1
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v2
         with:
           name: Output
-          path: output
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
